@@ -1,0 +1,6 @@
+yfinance
+google-genai
+tavily-python
+langgraph
+reportlab
+python-dotenv
